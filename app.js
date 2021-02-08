@@ -30,7 +30,7 @@ const updateData = data => {
             <img src="${data.strMealThumb}" class="card-img-top" alt="${data.strMeal}">
             <div class="card-body">
                 <h5 class="card-title">${data.strMeal}</h5>
-                <p class="card-text"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minima incidunt laborum provident esse, veritatis dolores distinctio recusandae ipsum sit doloremque molestiae.</p>
+                <p class="card-text"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minima incidunt laborum provident esse, veritatis dolores doloremque molestiae.</p>
             </div>
          </div>
 
